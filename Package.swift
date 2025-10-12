@@ -15,7 +15,6 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/JWIMaster/SFSymbolsCompatKit.git", branch: "master"),
         .package(url: "https://github.com/JWIMaster/FoundationCompatKit.git", branch: "master"),
-        .package(url: "https://github.com/JWIMaster/OpenCombine.git", branch: "master"),
         .package(url: "https://github.com/JWIMaster/UIKitCompatKit.git", branch: "master"),
         .package(url: "https://github.com/JWIMaster/GPUImage1Swift.git", branch: "master")
     ],
@@ -25,7 +24,6 @@ let package = Package(
             dependencies: [
                 .product(name: "SFSymbolsCompatKit", package: "SFSymbolsCompatKit"),
                 .product(name: "FoundationCompatKit", package: "FoundationCompatKit"),
-                .product(name: "OpenCombine", package: "OpenCombine"),
                 .product(name: "UIKitCompatKit", package: "UIKitCompatKit"),
                 .product(name: "GPUImage1Swift", package: "GPUImage1Swift")
             ],
