@@ -10,24 +10,6 @@
       }
     },
     {
-      "identity" : "gpuimage1swift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/GPUImage1Swift.git",
-      "state" : {
-        "branch" : "master",
-        "revision" : "4a936d991f248bb18373aba4c326055b04f3e566"
-      }
-    },
-    {
-      "identity" : "opencombine",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/OpenCombine.git",
-      "state" : {
-        "branch" : "master",
-        "revision" : "610725d1d68d34bc6535cdd4366dd30603856c76"
-      }
-    },
-    {
       "identity" : "sfsymbolscompatkit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/JWIMaster/SFSymbolsCompatKit.git",
@@ -42,7 +24,7 @@
       "location" : "https://github.com/JWIMaster/UIKitCompatKit.git",
       "state" : {
         "branch" : "master",
-        "revision" : "c4ef6d67c9189bdb628aced4995afef4041bbcea"
+        "revision" : "01f017870c9873cfb417712061aa5aadfa3041e2"
       }
     }
   ],
